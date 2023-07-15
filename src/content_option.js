@@ -1,4 +1,4 @@
-const logotext = "NGHIA";
+const logotext = "NGHIA.";
 const meta = {
     title: "Nghia Portfolio",
     description: "I’m Pham Phuoc Nghia data Font End developer,currently working in Berlin",
