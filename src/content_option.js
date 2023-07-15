@@ -130,7 +130,7 @@ const contactConfig = {
 const socialprofils = {
     github: "https://github.com/Pham-Phuoc-Nghia",
     facebook: "https://www.facebook.com/phuocnghia.pham.31/",
-    linkedin: "https://www.linkedin.com/in/ngh%C4%A9a-ph%E1%BA%A1m-031512274/",
+    linkedin: "https://www.linkedin.com/in/pham-phuoc-nghia-031512274/",
     twitter: "https://twitter.com",
 };
 export {
