@@ -129,7 +129,7 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com/Pham-Phuoc-Nghia",
-    facebook: "https://www.facebook.com/phuocnghia.pham.31/",
+    facebook: "https://www.facebook.com/profile.php?id=100008471567537",
     linkedin: "https://www.linkedin.com/in/pham-phuoc-nghia-031512274/",
     twitter: "https://twitter.com",
 };
