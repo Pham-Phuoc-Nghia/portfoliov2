@@ -19,7 +19,7 @@ const introdata = {
 const dataabout = {
   title: "Know Who I'M",
   aboutme:
-    "Hi Everyone, I am Pham Phuoc Nghia from Go Vap district, Ho Chi Minh City.\n I am a final year Information Technology student enjoying the last days of my university studies.\n My passion lies in the field of Front-end, where I have the opportunity to turn creative ideas into visual reality on the web.",
+    "Hi Everyone, I am Pham Phuoc Nghia from Ho Chi Minh City.\n I am a final year Information Technology student enjoying the last days of my university studies.\n My passion lies in the field of Front-end, where I have the opportunity to turn creative ideas into visual reality on the web.",
 };
 const worktimeline = [
   {
